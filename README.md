@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richmandlx
+- 👋 Hi, I’m @rmandlx
 - 👀 I’m interested in everything related to electronics (not only coding!)
 
 <!---
